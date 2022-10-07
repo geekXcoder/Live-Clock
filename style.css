@@ -1,9 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@500;600&display=swap');
+
+body{
+    background-color: #000;
+}
 
 #clock {
-font-size: 175px;
+font-size: 160px;
 width: 900px;
 margin: 200px;
 text-align: center;
-border: 2px solid black;
+border: 2px solid #fff;
 border-radius: 20px;
+font-weight: 600;
+color: #fff;
+font-family: 'Gemunu Libre', sans-serif;
 }
